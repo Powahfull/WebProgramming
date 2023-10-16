@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kivan\\.nuget\\packages\\": {}
+    "/Users/kivanc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\Test1\\Test1\\Test1.csproj",
+      "projectUniqueName": "/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test1/Test1/Test1.csproj",
       "projectName": "Test1",
-      "projectPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\Test1\\Test1\\Test1.csproj",
-      "packagesPath": "C:\\Users\\kivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\Test1\\Test1\\obj\\",
+      "projectPath": "/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test1/Test1/Test1.csproj",
+      "packagesPath": "/Users/kivanc/.nuget/packages/",
+      "outputPath": "/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test1/Test1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kivanc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
       }
     }
   }
