@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/kivanc/.nuget/packages/": {}
+    "C:\\Users\\kivan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/Test3.csproj",
+      "projectUniqueName": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\Test3\\Test3\\Test3.csproj",
       "projectName": "Test3",
-      "projectPath": "/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/Test3.csproj",
-      "packagesPath": "/Users/kivanc/.nuget/packages/",
-      "outputPath": "/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/",
+      "projectPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\Test3\\Test3\\Test3.csproj",
+      "packagesPath": "C:\\Users\\kivan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\Test3\\Test3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kivanc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
