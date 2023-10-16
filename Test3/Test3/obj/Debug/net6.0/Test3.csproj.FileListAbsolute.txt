@@ -1,0 +1,14 @@
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.exe
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.deps.json
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.runtimeconfig.json
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.pdb
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.AssemblyInfoInputs.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.AssemblyInfo.cs
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.csproj.CoreCompileInputs.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\refint\Test3.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.pdb
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.genruntimeconfig.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\ref\Test3.dll

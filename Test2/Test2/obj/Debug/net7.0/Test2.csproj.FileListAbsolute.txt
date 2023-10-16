@@ -13,3 +13,17 @@
 /Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test2/Test2/obj/Debug/net7.0/Test2.pdb
 /Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test2/Test2/obj/Debug/net7.0/Test2.genruntimeconfig.cache
 /Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test2/Test2/obj/Debug/net7.0/ref/Test2.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\bin\Debug\net7.0\Test2.exe
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\bin\Debug\net7.0\Test2.deps.json
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\bin\Debug\net7.0\Test2.runtimeconfig.json
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\bin\Debug\net7.0\Test2.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\bin\Debug\net7.0\Test2.pdb
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\Test2.AssemblyInfoInputs.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\Test2.AssemblyInfo.cs
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\Test2.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\refint\Test2.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\Test2.pdb
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\Test2.genruntimeconfig.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test2\Test2\obj\Debug\net7.0\ref\Test2.dll
