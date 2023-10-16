@@ -1,14 +1,29 @@
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.exe
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.deps.json
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.runtimeconfig.json
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.dll
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\bin\Debug\net6.0\Test3.pdb
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.AssemblyInfoInputs.cache
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.AssemblyInfo.cs
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.csproj.CoreCompileInputs.cache
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.dll
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\refint\Test3.dll
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.pdb
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\Test3.genruntimeconfig.cache
-C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\Test3\Test3\obj\Debug\net6.0\ref\Test3.dll
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.exe
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.deps.json
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.runtimeconfig.json
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.dll
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.pdb
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.AssemblyInfoInputs.cache
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.AssemblyInfo.cs
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.csproj.CoreCompileInputs.cache
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.dll
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/refint/Test3.dll
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.pdb
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.genruntimeconfig.cache
+C:/Users/kivan/OneDrive/Masaüstü/Dev/WebProgramming/Test3/Test3/obj/Debug/net6.0/ref/Test3.dll
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.deps.json
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.runtimeconfig.json
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.dll
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/bin/Debug/net6.0/Test3.pdb
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.csproj.AssemblyReference.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.AssemblyInfoInputs.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.AssemblyInfo.cs
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.csproj.CoreCompileInputs.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.dll
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/refint/Test3.dll
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.pdb
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/Test3.genruntimeconfig.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/Test3/Test3/obj/Debug/net6.0/ref/Test3.dll
