@@ -1,0 +1,15 @@
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/bin/Debug/net6.0/LabW3
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/bin/Debug/net6.0/LabW3.deps.json
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/bin/Debug/net6.0/LabW3.runtimeconfig.json
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/bin/Debug/net6.0/LabW3.dll
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/bin/Debug/net6.0/LabW3.pdb
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.csproj.AssemblyReference.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.AssemblyInfoInputs.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.AssemblyInfo.cs
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.csproj.CoreCompileInputs.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.dll
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/refint/LabW3.dll
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.pdb
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/LabW3.genruntimeconfig.cache
+/Users/kivanc/Desktop/Dersler/Web Programming/Codes/WebProgramming/LabW3/LabW3/obj/Debug/net6.0/ref/LabW3.dll
