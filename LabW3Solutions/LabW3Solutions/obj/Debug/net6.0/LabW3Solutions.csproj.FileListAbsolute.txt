@@ -1,0 +1,14 @@
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\bin\Debug\net6.0\LabW3Solutions.exe
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\bin\Debug\net6.0\LabW3Solutions.deps.json
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\bin\Debug\net6.0\LabW3Solutions.runtimeconfig.json
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\bin\Debug\net6.0\LabW3Solutions.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\bin\Debug\net6.0\LabW3Solutions.pdb
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\LabW3Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\LabW3Solutions.AssemblyInfoInputs.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\LabW3Solutions.AssemblyInfo.cs
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\LabW3Solutions.csproj.CoreCompileInputs.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\LabW3Solutions.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\refint\LabW3Solutions.dll
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\LabW3Solutions.pdb
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\LabW3Solutions.genruntimeconfig.cache
+C:\Users\kivan\OneDrive\Masaüstü\Dev\WebProgramming\LabW3Solutions\LabW3Solutions\obj\Debug\net6.0\ref\LabW3Solutions.dll

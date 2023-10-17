@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\LabW3\\LabW3\\LabW3.csproj",
-      "projectName": "LabW3",
-      "projectPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\LabW3\\LabW3\\LabW3.csproj",
+      "projectUniqueName": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\LabW3Solutions\\LabW3Solutions\\LabW3Solutions.csproj",
+      "projectName": "LabW3Solutions",
+      "projectPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\LabW3Solutions\\LabW3Solutions\\LabW3Solutions.csproj",
       "packagesPath": "C:\\Users\\kivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\LabW3\\LabW3\\obj\\",
+      "outputPath": "C:\\Users\\kivan\\OneDrive\\Masaüstü\\Dev\\WebProgramming\\LabW3Solutions\\LabW3Solutions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
