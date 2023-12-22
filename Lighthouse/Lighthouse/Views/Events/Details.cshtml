@@ -1,0 +1,95 @@
+﻿@model Lighthouse.Models.Events
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Events</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AttachmentFile)
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.AttachmentFile != null)
+            {
+                <span>File Uploaded</span>
+            }
+            else
+            {
+                <span>No File Uploaded</span>
+            }
+        </dd>
+
+        <dt class="col-sm-2">
+            Include Email
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IncludeEmail)
+        </dd>
+
+        <dt class="col-sm-2">
+            Include Website
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IncludeWebsite)
+        </dd>
+
+        <dt class="col-sm-2">
+            Is Paid
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IsPaid)
+        </dd>
+
+        <dt class="col-sm-2">
+            Is Free
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IsFree)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
